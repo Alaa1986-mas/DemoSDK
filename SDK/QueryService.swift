@@ -5,7 +5,7 @@
 //  Created by עלאא דאהר on 09/02/2020.
 //  Copyright © 2020 עלאא דאהר. All rights reserved.
 //
-
+// Class
 import Foundation
 
 public class QueryService {
