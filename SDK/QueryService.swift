@@ -22,7 +22,7 @@ public class QueryService {
      var tracks : [Track] = []
     //
     // MARK : - Type Alias
-    //
+    ///
    public typealias  QueryResults = ([Track]?, NetworkError?) -> Void
     
     //
