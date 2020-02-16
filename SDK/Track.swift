@@ -16,6 +16,7 @@ public class Track : Decodable {
    
     public var downloaded : Bool?
    public var index : Int?
+    public var noTrack : Bool?
    
     public init(artistName : String, previewUrl : URL, trackName : String) {
   
